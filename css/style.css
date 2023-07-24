@@ -1,0 +1,20 @@
+.countent h1{
+  font-size: 80px;
+  font-family: Impact;
+  margin-top: 60px;
+}
+
+.countent p{
+  font-size: 30px;
+  margin: 25px 0px;
+}
+.countent button{
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+  margin-top: 25px;
+}
+.countent button:hover{
+  background-color: green;
+}
